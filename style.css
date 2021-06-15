@@ -3,7 +3,8 @@ html {
   height: 100%;
   font-family: monospace;
   font-weight: 900;
+  font-size: xxx-large;
 }
 .container {
-  padding-top: 260px !important;
+  padding-top: 240px !important;
 }
