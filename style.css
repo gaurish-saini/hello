@@ -3,8 +3,17 @@ html {
   height: 100%;
   font-family: monospace;
   font-weight: 900;
-  font-size: xxx-large;
 }
 .container {
-  padding-top: 240px !important;
+  padding-top: 170px !important;
+}
+.social {
+  padding-right: 10px;
+}
+ul{
+  margin: 0px !important;
+  display: inline-flex;
+}
+span{
+  font-size: xxx-large;
 }
