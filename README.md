@@ -1,2 +1,2 @@
 # hello
-The page just says "hello".
+The page contains a brief introduction of myself.
