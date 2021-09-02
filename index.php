@@ -17,7 +17,7 @@ mysqli_close( $conn );
 		<script type="text/javascript" src='script.js'></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<title>GAURISH SAINI</title>
-		<link rel="icon" href="https://coloredcow.com/wp-content/uploads/2017/03/favicon.png" sizes="32x32">
+		<link rel="icon" href="wave.gif" sizes="32x32">
 	</head>
 	<body class="brown lighten-4">
 		<div class="container">
@@ -26,7 +26,7 @@ mysqli_close( $conn );
 				<div style="margin-top: 10px;"><img src="wave.gif" height="30px" width="30px"></div>
 				<span>Hi, my name is <?php echo $name['profile_name']; ?>.</span></br>
 				<span>I build things for the web.</span></br></br>
-				<p>(Software Engineer Intern at <a class="black-text" href="https://coloredcow.com/" target="_blank"><u>ColoredCow</u></a>)</p>
+				<p>(Full Stack Developer)</p>
 			</div>
 			<hr></br>
 			<div class="center-align">
